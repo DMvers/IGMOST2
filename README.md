@@ -50,7 +50,7 @@ Staphylococcus_epidermidis_ATCC_12228
 Streptococcus_oralis_Uo5
 Veillonella_dispar_ATCC_17748  
 
-The original versions that we used as a base for our changes can be found at https://github.com/DMvers/IGMOSTdatafiles
+The original versions that we used as a base for our changes can be found at https://github.com/DMvers/IGMOST2datafiles
 
 Newer versions may be available from www.vmh.life
 
