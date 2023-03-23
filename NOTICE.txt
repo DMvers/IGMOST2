@@ -1,0 +1,11 @@
+Gut Microbiota Simulator
+Copyright 2012-2023 Leiden University
+
+This product includes software developed at
+the Mathematical Biology team of Leiden University, The Netherlands
+
+(http://pub.math.leidenuniv.nl/~merksrmh2)
+
+Portions of this software were developed at CWI in Amsterdam, The Netherlands
+
+The energiesdatafile.csv is created using the Equillibrator database, https://equilibrator.weizmann.ac.il/
