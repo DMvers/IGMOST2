@@ -28,7 +28,8 @@ pngwriter can be utilised by this software by compiling pngwriter from source an
 These are suggestions - the code can be modified to, for example, use a different solver.
 
 --DEFAULT RESOURCE FILES--  
-Utilised bacterial models, all from AGORA version 1.03, originally retrieved from www.vmh.life:  
+Utilised bacterial models, all from AGORA version 1.03, originally retrieved from www.vmh.life:
+
 Bacteroides_vulgatus_ATCC_8482
 
 Bifidobacterium_longum_infantis_ATCC_15697  
@@ -74,6 +75,7 @@ The original versions that we used as a base for our changes can be found at htt
 Newer versions may be available from www.vmh.life
 
 Rename the model files to the following names for the default settings to work:
+
 MODEL_Bvul.xml
 
 MODEL_BlongInf.xml  
@@ -113,7 +115,10 @@ MODEL_Sora.xml
 
 MODEL_Vdis.xml
 
-Change the "name" characteristic on line 3 of the models to the following for the default settings to workBvul
+Change the "name" characteristic on line 3 of the models to the following for the default settings to work
+
+Bvul
+
 Binf
 
 Blong  
